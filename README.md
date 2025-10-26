@@ -56,5 +56,5 @@ docker-compose logs -f        # View logs
 
 - **Host**: localhost:3307
 - **Database**: task_system
-- **Username**: taskuser
-- **Password**: taskpass
+- **Username**: root
+- **Password**: 1234
